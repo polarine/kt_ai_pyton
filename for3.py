@@ -13,4 +13,4 @@ for i in range(a, b+1):
         print(f'{i}+', end='')
     sum += i
 
-print(f'{b}= {sum}')
+print(f'{b}={sum}')
