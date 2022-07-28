@@ -1,6 +1,3 @@
-from re import A
-
-
 print('네개의 정수중에 최댓값을 구합니다')
 a = int(input('정수 a의 값을 입력하세요. : '))
 b = int(input('정수 b의 값을 입력하세요. : '))
