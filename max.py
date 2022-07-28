@@ -9,4 +9,4 @@ if b > maximum:
 if c > maximum:
     maximum = c
     
-print(f'최대값은 {maximum}입니다.')
+print(f'최댓값은 {maximum}입니다.')
