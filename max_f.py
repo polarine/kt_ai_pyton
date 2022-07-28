@@ -14,5 +14,5 @@ b = int(input('정수 b의 값을 입력하세요. : '))
 c = int(input('정수 c의 값을 입력하세요. : '))
 d = int(input('정수 d의 값을 입력하세요. : '))
 
-max4(a, b, c, d)
-print(f'최댓값인 정수는 {maximum}입니다.')
+
+print(f'최댓값인 정수는 {max4(a, b, c, d)}입니다.')
