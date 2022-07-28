@@ -10,3 +10,13 @@ if c > maximum:
     maximum = c
     
 print(f'최댓값은 {maximum}입니다.')
+
+def max3(a, b, c): #함수화
+    maximum = a
+    if b > maximum:
+        maximum = b
+    if c > maximum:
+        maximum = c
+    return maximum #최댓값 반환
+
+print(f'최댓값은 {max(a, b, c)}입니다.')
